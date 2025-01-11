@@ -32,4 +32,4 @@ heatmap_fig3 <- pheatmap(
 )
 
 # Save the heatmap
-ggsave("figures/heatmap_fig3.jpeg", plot = heatmap_fig3, width = 9, height = 10, dpi = 600, bg = "white")
+ggsave("./results/heatmap_fig3.jpeg", plot = heatmap_fig3, width = 9, height = 10, dpi = 600, bg = "white")
