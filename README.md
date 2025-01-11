@@ -1,2 +1,4 @@
-# drought-tolerance-rice-genotypes
-Phenotypic and statistical characterization of advanced rice breeding lines under normal and drought stress conditions to identify drought-tolerant genotypes
+# Phenotypic Analysis of Morphological Features
+
+This repository contains scripts and data for analyzing morphological features of advanced rice breeding lines grown under control and drought stress conditions.
+
