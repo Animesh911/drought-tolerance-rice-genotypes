@@ -102,4 +102,4 @@ pca_fig2 <- fviz_pca_biplot(pca_result,
        y = paste0("PC2 (", round(summary(pca_result)$importance[2, 2] * 100, 1), "%)"))
 
 # Save PCA plot
-ggsave(file.path(results_dir, "PCA_plot_biplot.png"), plot = pca_fig2, width = 7, height = 6, dpi = 600, bg = "white")
+ggsave(file.path(results_dir, "pca_fig2.png"), plot = pca_fig2, width = 7, height = 6, dpi = 600, bg = "white")
